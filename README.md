@@ -27,16 +27,21 @@ Thank you and enjoy :D
 
 #### List of Repos:
 
-* [CoreClock](https://github.com/AmazingCow-Game-Core/CoreClock)
-* [CoreColorGrid](https://github.com/AmazingCow-Game-Core/CoreColorGrid)
-* [CoreCoord](https://github.com/AmazingCow-Game-Core/CoreCoord)
-* [CoreGenius](https://github.com/AmazingCow-Game-Core/CoreGenius)
-* [CoreHangman](https://github.com/AmazingCow-Game-Core/CoreHangman)
-* [CoreLightsOff](https://github.com/AmazingCow-Game-Core/CoreLightsOff)
-* [CoreMastermind](https://github.com/AmazingCow-Game-Core/CoreMastermind)
-* [CorePegSolitaire](https://github.com/AmazingCow-Game-Core/CorePegSolitaire)
-* [CoreSnake](https://github.com/AmazingCow-Game-Core/CoreSnake)
-* [CoreWordsSearch](https://github.com/AmazingCow-Game-Core/CoreWordsSearch)
+* [CoreClock](https://github.com/AmazingCow-Game-Core/CoreClock/)
+* [CoreColorGrid](https://github.com/AmazingCow-Game-Core/CoreColorGrid/)
+* [CoreCoord](https://github.com/AmazingCow-Game-Core/CoreCoord/)
+* [CoreGame](https://github.com/AmazingCow-Game-Core/CoreGame/)
+* [CoreGenius](https://github.com/AmazingCow-Game-Core/CoreGenius/)
+* [CoreHangman](https://github.com/AmazingCow-Game-Core/CoreHangman/)
+* [CoreLightsOff](https://github.com/AmazingCow-Game-Core/CoreLightsOff/)
+* [CoreMastermind](https://github.com/AmazingCow-Game-Core/CoreMastermind/)
+* [CoreMemory](https://github.com/AmazingCow-Game-Core/CoreMemory/)
+* [CoreMinesweeper](https://github.com/AmazingCow-Game-Core/CoreMinesweeper/)
+* [CorePegSolitaire](https://github.com/AmazingCow-Game-Core/CorePegSolitaire/)
+* [CoreRandom](https://github.com/AmazingCow-Game-Core/CoreRandom/)
+* [CoreSnake](https://github.com/AmazingCow-Game-Core/CoreSnake/)
+* [CoreWordsSearch](https://github.com/AmazingCow-Game-Core/CoreWordsSearch/)
+
 
 
 <!-- ####################################################################### -->
