@@ -47,6 +47,7 @@ Thank you and enjoy :D
 * [CoreSnake](https://github.com/AmazingCow-Game-Core/CoreSnake.git)
 * [CoreSokoban](https://github.com/AmazingCow-Game-Core/CoreSokoban.git)
 * [CoreTicTacToe](https://github.com/AmazingCow-Game-Core/CoreTicTacToe.git)
+* [CoreTwiddle](https://github.com/AmazingCow-Game-Core/CoreTwiddle.git)
 * [CoreWordsSearch](https://github.com/AmazingCow-Game-Core/CoreWordsSearch.git)
 
 
