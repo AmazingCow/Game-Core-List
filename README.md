@@ -34,6 +34,7 @@ Thank you and enjoy :D
 * [CoreColorGrid](https://github.com/AmazingCow-Game-Core/CoreColorGrid.git)
 * [CoreConnecta4](https://github.com/AmazingCow-Game-Core/CoreConnecta4.git)
 * [CoreCoord](https://github.com/AmazingCow-Game-Core/CoreCoord.git)
+* [CoreCoord_CS](https://github.com/AmazingCow-Game-Core/CoreCoord_CS.git)
 * [CoreGame](https://github.com/AmazingCow-Game-Core/CoreGame.git)
 * [CoreGenius](https://github.com/AmazingCow-Game-Core/CoreGenius.git)
 * [CoreHangman](https://github.com/AmazingCow-Game-Core/CoreHangman.git)
