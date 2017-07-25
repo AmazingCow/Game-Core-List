@@ -31,6 +31,7 @@ Thank you and enjoy :D
 * [Core2048](https://github.com/AmazingCow-Game-Core/Core2048.git)
 * [CoreBattleship](https://github.com/AmazingCow-Game-Core/CoreBattleship.git)
 * [CoreClock](https://github.com/AmazingCow-Game-Core/CoreClock.git)
+* [CoreColor](https://github.com/AmazingCow-Game-Core/CoreColor.git)
 * [CoreColorGrid](https://github.com/AmazingCow-Game-Core/CoreColorGrid.git)
 * [CoreConnecta4](https://github.com/AmazingCow-Game-Core/CoreConnecta4.git)
 * [CoreCoord](https://github.com/AmazingCow-Game-Core/CoreCoord.git)
